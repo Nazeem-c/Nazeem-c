@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hello there! I'm Nazeem
+A passionate designer and front-end developer with a love for creating beautiful and user-friendly web experiences. I believe in the power of design to solve problems and enhance the way people interact with technology.
+
+
 
 <!--
 **Nazeem-c/Nazeem-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
