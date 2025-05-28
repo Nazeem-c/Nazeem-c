@@ -6,4 +6,4 @@ I'm a passionate **Frontend Engineer** who thrives at the intersection of design
 
 🛠️ While frontend is my core strength, I'm also well-versed in **backend development principles**, allowing me to approach problems with a **full-stack mindset** and collaborate effectively across the development lifecycle.
 
-📫 Let's [connect](https://portfolio-nazeem-vjhp.vercel.app/) and build something great together!
+📫 Let's [connect](https://portfolio-nazeem.vercel.app/) and build something great together!
